@@ -4,6 +4,10 @@ body {
   button:hover {
     color: #15AED8;
   }
+  #para1 {
+    text-align: center;
+    color: #EEAF13;
+  }
 h1 {
     color: #c4afdc;
     margin-right: 30px; 
