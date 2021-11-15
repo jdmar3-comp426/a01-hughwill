@@ -1,6 +1,9 @@
 body {
     background-color: #c4af70;
   }
+  button:hover {
+    color: #15AED8;
+  }
 h1 {
     color: #c4afdc;
     margin-right: 30px; 
