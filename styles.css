@@ -1,7 +1,47 @@
 body {
-    background-color: yellow;
+    background-color: #c4af70;
   }
-  h1 {
-    color: blue;
+h1 {
+    color: #c4afdc;
     margin-right: 30px; 
-  }
+    font-family: helvetica;
+    border-style: dotted;
+}
+h2 {
+  color: #c4afdc;
+  margin-right: 30px;
+  font-family: Didot, serif;
+  font-stretch: expanded;
+}
+h3 {
+  color: #c4afdc;
+  margin-right: 30px;
+  font-family: helvetica;
+}
+h4 {
+  color: #c4afdc;
+  margin-right: 30px;
+  font-family: helvetica;
+}
+h5 {
+  color: #c4afdc;
+  margin-right: 30px; 
+  font-family: helvetica;
+}
+h6 {
+  color: #c4afdc;
+  margin-right: 30px;
+  font-family: helvetica; 
+}
+p {
+  text-align: center;
+  color: red;
+}
+.center {
+  text-align: center;
+  color: red;
+}
+* {
+  text-align: center;
+  color: #ffafb4;
+}
