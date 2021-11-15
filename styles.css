@@ -1,5 +1,7 @@
 body {
     background-color: #c4af70;
+    height: 200px;
+    width: 50%;
   }
   button:hover {
     color: #15AED8;
@@ -7,6 +9,9 @@ body {
   #para1 {
     text-align: center;
     color: #EEAF13;
+  }
+  div p {
+    background-color: #4AF90E;
   }
 h1 {
     color: #c4afdc;
